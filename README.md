@@ -1,4 +1,4 @@
-# It's better to watch the presentation SeasonalTemp !!!
+# It's better to watch the presentation SeasonalTemp.pptx.pdf !!!
 
 # Data-Science-Project
 
